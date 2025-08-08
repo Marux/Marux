@@ -80,5 +80,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marux&show_icons=true&theme=radical&layout=compact" alt="marux" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marux&theme=radical" alt="marux" />
+  <img width="395" src="https://github-readme-stats.vercel.app/api?username=marux&show_icons=true&theme=radical" alt="marux" />
 </p>
