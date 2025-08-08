@@ -5,54 +5,80 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marux&label=Profile%20views&color=0e75b6&style=flat" alt="marux" /> </p>
 
-### 🔥 Highlights (From my CV)
-- 💼 **Currently**: Full Stack Dev at Think Services Factory (Nest.js/Vue.js)
-- 🛠️ Built **AI-powered systems** with OpenAI (ChatBot, product categorization)
-- 🚀 Expertise in **Dockerized** architectures and **real-time apps** (Socket.IO)
-- 📈 Former tech team leader with **15% efficiency improvement** at Konecta Chile
+### 🔥 Highlights
+- 💼 **Currently**: Full Stack Developer at Think Services Factory SpA (NestJS/Vue.js)
+- 🛠️ Built **AI-powered systems** with OpenAI API and **real-time apps** (Socket.IO)
+- � Expertise in **Dockerized** architectures and **RESTful APIs** (JWT, Swagger)
+- 📊 Strong advocate of **SOLID**, **Clean Code** and **Agile methodologies**
 
 ---
 
-### 🌱 Current Focus
-- 🔭 Working on: **Modernizing legacy systems** (Vue 2 → Vue 3 + TypeScript)
-- 🌱 Learning: **React** (expanding frontend skills) | **Cloud deployment** (AWS/GCP)
-- 🎓 Studying: **Analista Programador** @ Santo Tomas (2022-2024)
+### 🛠️ Tech Stack
 
----
+#### 🌐 **Frontend**
+<p>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
+</p>
 
-### 🛠️ Tech Stack (Professional)
-<p align="left">
-<!-- Backend -->
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<!-- Frontend -->
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<!-- DB/DevOps -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<!-- Other -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://socket.io/images/logo.svg" alt="socketio" width="40" height="40"/> </a>
+#### ⚙️ **Backend**
+<p>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/></a>
+</p>
+
+#### 🗃️ **Databases**
+<p>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
+</p>
+
+#### 🛠️ **Tools & DevOps**
+<p>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
+  <a href="https://bitbucket.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+</p>
+
+#### 📱 **Mobile**
+<p>
+  <a href="https://developer.android.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📫 Contact / 🌐 Socials
-- 💼 **LinkedIn**: [/victor-trimpai-dev](https://linkedin.com/in/victor-manuel-trimpai-andrade-9803b4258)
-- 🌍 **Portfolio**: [trimpaidev.netlify.app](https://trimpaidev.netlify.app/)
-- 📧 **Email**: victor.trimpai1987@gmail.com *(professional)* / trimpaiandradev@gmail.com *(academic)*
+### 🌱 Current Focus
+- 🔭 Modernizing legacy systems (Vue 2 → Vue 3 + TypeScript)
+- 🌱 Exploring **React** and **Cloud Architectures** (AWS/GCP)
+- 🎓 Finishing **Analista Programador** degree @ Santo Tomas (2024)
 
 ---
 
-### ⚡ Fun Facts (Bilingual Edition)
-- 🍕 **Pizza lover** (¡Especialmente las chilenas con palta!)
-- 😄 **"I think I'm funny"** → *"Creo que soy chistoso"* (but my code definitely is)
-- 🎸 **Music enthusiast** | ⚽ **Football fan**
+### 📫 Contact
+<p>
+  <a href="https://linkedin.com/in/victor-manuel-trimpai-andrade-9803b4258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:victor.trimpai1987@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://trimpaidev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Fun Facts
+- 🍕 Pizza lover (¡Especialmente las chilenas con palta!)
+- 🎸 Music enthusiast | ⚽ Football fan
+- 😄 "I think I'm funny" (but my code definitely is)
 
 ---
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marux&show_icons=true&locale=en&layout=compact&theme=radical" alt="marux" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marux&theme=radical" alt="marux" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marux&show_icons=true&theme=radical&layout=compact" alt="marux" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marux&theme=radical" alt="marux" />
 </p>
